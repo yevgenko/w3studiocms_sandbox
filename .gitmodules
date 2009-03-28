@@ -7,3 +7,6 @@
 [submodule "plugins/sfGuardPlugin"]
 	path = plugins/sfGuardPlugin
 	url = git://github.com/yviktorov/sf_guard_plugin.git
+[submodule "plugins/sfW3studioCmsPlugin"]
+	path = plugins/sfW3studioCmsPlugin
+	url = git://github.com/giansimon/w3studiocms.git
