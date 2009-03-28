@@ -10,3 +10,6 @@
 [submodule "plugins/sfW3studioCmsPlugin"]
 	path = plugins/sfW3studioCmsPlugin
 	url = git://github.com/giansimon/w3studiocms.git
+[submodule "web/js/tiny_mce"]
+	path = web/js/tiny_mce
+	url = git://github.com/yviktorov/tinymce.git
