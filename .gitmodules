@@ -1,3 +1,6 @@
 [submodule "lib/vendor/symfony"]
 	path = lib/vendor/symfony
 	url = git://github.com/yviktorov/symfony.git
+[submodule "plugins/DbFinderPlugin"]
+	path = plugins/DbFinderPlugin
+	url = git://github.com/yviktorov/dbfinder_plugin.git
