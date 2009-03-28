@@ -4,3 +4,6 @@
 [submodule "plugins/DbFinderPlugin"]
 	path = plugins/DbFinderPlugin
 	url = git://github.com/yviktorov/dbfinder_plugin.git
+[submodule "plugins/sfGuardPlugin"]
+	path = plugins/sfGuardPlugin
+	url = git://github.com/yviktorov/sf_guard_plugin.git
