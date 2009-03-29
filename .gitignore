@@ -1,2 +1,4 @@
 config/databases.yml
 web/*Plugin
+cache/*
+log/*
