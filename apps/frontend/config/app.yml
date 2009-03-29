@@ -1,2 +1,5 @@
 # default values
-#all:
+all:
+
+  # sfW3studoCmsPlugin settings
+  w3s_web_published_dir: %SF_DATA_DIR%/published

@@ -8,3 +8,4 @@ lib/filter/base/*
 lib/model/om/*
 lib/model/map/*
 web/w3s_tinymce_stylesheet.css
+data/published/*
