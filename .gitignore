@@ -2,3 +2,8 @@ config/databases.yml
 web/*Plugin
 cache/*
 log/*
+data/sql/*
+lib/form/base/*
+lib/filter/base/*
+lib/model/om/*
+lib/model/map/*
