@@ -13,3 +13,6 @@
 [submodule "web/js/tiny_mce"]
 	path = web/js/tiny_mce
 	url = git://github.com/yviktorov/tinymce.git
+[submodule "themes/w3sJet30Theme"]
+	path = themes/w3sJet30Theme
+	url = git://github.com/yviktorov/w3s_jet30_theme.git
