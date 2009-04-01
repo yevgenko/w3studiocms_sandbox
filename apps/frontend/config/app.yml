@@ -1,6 +1,3 @@
 # default values
-all:
+#all:
 
-  # sfW3studoCmsPlugin settings
-  w3s_web_templates_dir: %SF_ROOT_DIR%/themes
-  w3s_web_published_dir: %SF_DATA_DIR%/published
