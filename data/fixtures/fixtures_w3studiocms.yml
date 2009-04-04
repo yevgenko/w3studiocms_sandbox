@@ -1,0 +1,29 @@
+# # minimal data fixtures required for new, w3studioCms based, project
+#
+#W3sLanguage: 
+#  W3sLanguage_1: 
+#    language: english
+#    main_language: 1
+#    to_delete: 0
+#W3sContentType: 
+#  W3sContentType_1: 
+#    id: 1
+#    type_description: Non assegnato
+#  W3sContentType_2: 
+#    id: 2
+#    type_description: Testo
+#  W3sContentType_3: 
+#    id: 3
+#    type_description: Immagine
+#  W3sContentType_4: 
+#    id: 4
+#    type_description: Script
+#  W3sContentType_5: 
+#    id: 5
+#    type_description: Menu
+#  W3sContentType_6: 
+#    id: 6
+#    type_description: Languages links
+#  W3sContentType_99: 
+#    id: 99
+#    type_description: Da inserire
