@@ -2,6 +2,8 @@ rendering: ~
 security:  ~
 
 # insert your own filters here
+w3s_rendering:
+  class: w3sRenderingFilter
 
 cache:     ~
 common:    ~
