@@ -19,3 +19,6 @@
 [submodule "plugins/w3sMediaLibraryPlugin"]
 	path = plugins/w3sMediaLibraryPlugin
 	url = git://github.com/yviktorov/w3s_media_library_plugin.git
+[submodule "plugins/w3sCmsPlugin"]
+	path = plugins/w3sCmsPlugin
+	url = git://github.com/yviktorov/w3studiocms.git
