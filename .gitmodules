@@ -19,3 +19,6 @@
 [submodule "plugins/w3sCmsPlugin"]
 	path = plugins/w3sCmsPlugin
 	url = git://github.com/yviktorov/w3studiocms.git
+[submodule "plugins/sfThumbnailPlugin"]
+	path = plugins/sfThumbnailPlugin
+	url = git://github.com/yviktorov/sf_thumbnail_plugin.git
