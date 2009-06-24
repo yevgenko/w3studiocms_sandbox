@@ -31,7 +31,7 @@ all:
     i18n:                   on
 
     enabled_modules: [default, sfGuardGroup, sfGuardUser, sfGuardPermission, sfGuardAuth, webSite, webEditor, imagesManager, menuBuilder, pagesManager, themeImport, slotMapper, controlPanel, languagesManager, contentsManager, groupsManager, imageEditor, tinyMCE, sfMediaLibrary]
-    prototype_web_dir: /w3sCmsPlugin/js/scriptaculous/lib
+    prototype_web_dir: /sfW3studioCmsPlugin/js/scriptaculous/lib
 
     login_module: sfGuardAuth # To be called when a non-authenticated user
     login_action: signin # Tries to access a secure page
