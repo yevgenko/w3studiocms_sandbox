@@ -12,3 +12,4 @@ web/w3s_tinymce_stylesheet.css
 web/js/fileUploader/tfu.log
 data/published/*
 *~
+*.swp
